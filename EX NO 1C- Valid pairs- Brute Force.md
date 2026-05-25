@@ -19,7 +19,7 @@ x if x >= 0.
 
    
 ## Program:
-```
+```java
 /*
 Program to implement Reverse a String
 Developed by: R Anirudh
