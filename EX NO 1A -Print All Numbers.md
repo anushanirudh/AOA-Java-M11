@@ -13,7 +13,7 @@ To Write a Java program that takes an integer input N from the user and prints a
 6. Increment i by 1.  
 
 ## Program:
-```
+```java
 /*
 Program to implement Reverse a String
 Developed by: R Anirudh
