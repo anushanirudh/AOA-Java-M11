@@ -15,7 +15,7 @@ The overall run time complexity should be O(log (m+n)).
 5. Display the median value of the merged sorted arrays as the final output.
 
 ## Program:
-```
+```java
 /*
 Program to implement Reverse a String
 Developed by: R Anirudh
